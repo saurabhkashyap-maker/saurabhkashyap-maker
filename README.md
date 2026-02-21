@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C, C++, Java, Python, HTML/CSS, and SQL.**
 - 👯 I’m looking to collaborate on **Web Development and Open Source projects.**
 - 💬 Ask me about **Darbhanga, Bihar, or my journey into tech.**
-- 📫 How to reach me: **[Tumhara Email Id yahan likho]**
+- 📫 How to reach me: **[Saurabhhkashyap302@gmail.com]**
 - ⚡ Fun fact: **I share my birthday with the leap year end—February 28th!**
 
 ---
@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkashyap-maker&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
