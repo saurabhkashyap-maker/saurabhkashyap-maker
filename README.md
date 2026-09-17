@@ -1,19 +1,24 @@
+<!-- ===== ANIMATED HEADER WAVE ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi%20there,%20I'm%20Saurabh%20Kashyap%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
+<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&height=50&lines=BCA+Student+at+Sandip+University;Aspiring+Software+Developer;Learning+C,+C%2B%2B,+Java,+Python;Crafting+Web+Development+Skills" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&height=50&lines=BCA+Student+at+Sandip+University;Aspiring+Software+Developer;Learning+C,+C%2B%2B,+Java,+Python;Crafting+Web+Development+Skills" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
+<!-- ===== PROFILE VIEWS + FOLLOWERS ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhkashyap-maker&label=Profile%20views&color=fe428e&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/saurabhkashyap-maker?label=Followers&style=for-the-badge&color=fe428e" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhkashyap-maker&label=Profile%20views&color=fe428e&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/saurabhkashyap-maker?label=Followers&style=for-the-badge&color=fe428e" alt="followers" />
 </div>
+
+<br/>
 
 ---
 
@@ -39,11 +44,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkashyap-maker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkashyap-maker&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhkashyap-maker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkashyap-maker&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -57,6 +59,20 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhkashyap-maker&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+---
+
+### 🐍 My Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabhkashyap-maker/saurabhkashyap-maker1/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabhkashyap-maker/saurabhkashyap-maker1/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/saurabhkashyap-maker/saurabhkashyap-maker1/output/snake.svg" />
+  </picture>
+</div>
+
+---
 
 ### 🤝 Connect with me
 
@@ -72,6 +88,14 @@
   </a>
 </div>
 
+<br/>
+
+<!-- ===== FOOTER WAVE ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</div>
+
+<!-- ===== DEV QUOTE ===== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
