@@ -39,21 +39,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhkashyap-maker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=fe428e&icon_color=fe428e&text_color=ffffff" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkashyap-maker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fe428e&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkashyap-maker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkashyap-maker&theme=radical&hide_border=true&background=0D1117&stroke=fe428e&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkashyap-maker&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhkashyap-maker&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkashyap-maker&theme=radical&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhkashyap-maker&theme=radical&hide_border=true&area=true&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhkashyap-maker&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhkashyap-maker&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ### 🤝 Connect with me
